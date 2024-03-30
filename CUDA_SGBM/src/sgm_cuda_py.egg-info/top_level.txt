@@ -1,0 +1,2 @@
+sgm_cuda_c
+sgm_cuda_py
